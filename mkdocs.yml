@@ -1,0 +1,10 @@
+site_name: DevHub Demo Service
+
+nav:
+  - Tổng quan: index.md
+  - Kiến trúc: architecture.md
+  - Deployment: deployment.md
+
+plugins:
+  - techdocs-core
+
