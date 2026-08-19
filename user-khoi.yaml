@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: khoi
+spec:
+  profile:
+    displayName: Khoi Developer
+    email: khoi@example.com
+  memberOf:
+    - team-devhub

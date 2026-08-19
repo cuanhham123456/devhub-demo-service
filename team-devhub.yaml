@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: team-devhub
+  description: Development team responsible for DevHub
+spec:
+  type: team
+  profile:
+    displayName: Team DevHub
+    email: devhub@example.com
+  children: []
