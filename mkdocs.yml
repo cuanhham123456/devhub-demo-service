@@ -1,4 +1,9 @@
 site_name: DevHub Demo Service
+site_description: Technical documentation for DevHub Demo Service
+
+repo_url: https://github.com/cuanhham123456/devhub-demo-service
+repo_name: cuanhham123456/devhub-demo-service
+edit_uri: edit/main/docs/
 
 nav:
   - Tổng quan: index.md
@@ -7,4 +12,3 @@ nav:
 
 plugins:
   - techdocs-core
-
