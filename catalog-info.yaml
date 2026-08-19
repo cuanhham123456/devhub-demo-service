@@ -5,7 +5,10 @@ metadata:
   description: Demo service for the DevHub Developer Portal
   annotations:
     backstage.io/techdocs-ref: dir:.
+    backstage.io/source-location: url:https://github.com/cuanhham123456/devhub-demo-service
+    github.com/project-slug: cuanhham123456/devhub-demo-service
 spec:
   type: service
   lifecycle: experimental
   owner: team-devhub
+
